@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:[],"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/daopage":["static\u002Fchunks\u002Fpages\u002Fdaopage.js"],"/relay":["static\u002Fchunks\u002Fpages\u002Frelay.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fdaopage","\u002Frelay"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
